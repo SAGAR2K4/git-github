@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    int a=10;
-    int b=20;
+    int a=20;
+    int b=10;
     int division = a/b;
     cout << division <<endl;
     return 0;
